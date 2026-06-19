@@ -97,7 +97,7 @@ jsonschema-specifications==2025.4.1
 kokoro==0.9.4
 kombu==5.5.3
 langchain==0.3.22
-langchain-anthropic==0.3.3
+langchain-anthropic==1.4.6
 langchain-aws==0.2.19
 langchain-core==0.3.49
 langchain-deepseek==0.1.3
